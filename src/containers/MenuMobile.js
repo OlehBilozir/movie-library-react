@@ -179,7 +179,7 @@ const MenuMobile = ({ genres, staticCategories, selected }) => {
         <StyledCoffe
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.buymeacoffee.com/fidalgodev"
+          href="https://www.buymeacoffee.com/OlehBilozir"
         >
           <img
             src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg"
@@ -189,7 +189,7 @@ const MenuMobile = ({ genres, staticCategories, selected }) => {
         </StyledCoffe>
         <CopyRight mobile={true}>
           Copyright ©
-          <StyledLink href="https://www.github.com/fidalgodev">
+          <StyledLink href="https://www.github.com/OlehBilozir">
             Fidalgo
           </StyledLink>
         </CopyRight>
